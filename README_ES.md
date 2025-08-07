@@ -1,4 +1,4 @@
-# Cargador GGUF para Modelos Wan V1.0
+# Cargador GGUF V1.0 para Modelos Wan 2.1 y Wan 2.2
 
 Un cargador de alto rendimiento para modelos de generación de vídeo Wan en formato 
 `.gguf`, diseñado para reducir drásticamente el consumo de memoria VRAM y RAM durante 
